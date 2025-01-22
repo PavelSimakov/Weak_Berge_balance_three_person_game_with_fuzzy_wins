@@ -1,1 +1,9 @@
-# Weak_Berge_balance_three_person_game_with_fuzzy_wins
+# Building a weak Berge equilibrium in a three-person game with a finite number of strategies and fuzzy payoffs
+
+Программа ориентирована на специалистов, ответственных за принятие решений в промышленных и коммерческих организациях, особенно в тех областях, где требуется выбрать наилучшие технические варианты. Алгоритм работы программы включает в себя несколько ключевых этапов: 1. Пользователь определяет в файле функции выигрышей трех игроков, задаваемых трехмерными тензорами, элементами, которых являются нечеткие треугольные числа. 2. Программа дефаззифицирует их в четкое представление. 3. По четкому представлению строится приближенное слабое равновесие по Бержу, используя алгоритм равновесия квантового отклика во вспомогательной игре, ассоциированной с исходной. Результатом работы программы является профиль смешанных стратегий, формирующих слабое равновесие по Бержу.
+
+The program is aimed at professionals responsible for decision-making in industrial and commercial organizations, especially in those areas where it is necessary to choose the best technical options. The algorithm of the program includes several key steps: 1. The user defines in the file the winning functions of three players, defined by three-dimensional tensors, the elements of which are fuzzy triangular numbers. 2. The program defuzzies them into a clear view. 3. According to a clear representation, an approximate weak Berge equilibrium is constructed using the quantum response equilibrium algorithm in an auxiliary game associated with the original one. The result of the program is a profile of mixed strategies that form a weak Berge equilibrium.
+
+Certificate of registration of a computer program
+
+![Свиделельство - Построение слабого равновесия по Бержу в игре трех лиц с конечным числом стратегий и нечеткими выигрышами](https://github.com/user-attachments/assets/660b9979-8aff-4415-982c-0b754ebd980d)
